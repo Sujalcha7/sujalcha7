@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Koju</h1>
-<h3 align="center">As a motivated Computer Engineering student, I want to use my programming and web development skills to create helpful tech solutions. I’m seeking a Full Stack Developer internship to grow professionally and contribute to innovative projects.</h3>
+<h3 align="center">As a motivated Computer Engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalcha7&label=Profile%20views&color=0e75b6&style=flat" alt="sujalcha7" /> </p>
 
